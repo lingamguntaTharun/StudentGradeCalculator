@@ -1,0 +1,10 @@
+Enter Total Number of Subjects: 7
+Enter Marks Obtained in 7 Subjects: 98
+98
+98
+97
+91
+90
+80
+
+Grade = A-
